@@ -9,7 +9,7 @@
 
 define("DEBUG_MODE", TRUE); // bool
 define("START_CITY", "A");
-define("END_CITY", "F");  
+define("END_CITY", "F");
 
 /**
  * fonction utilitaire d'affichage de message de debug, permet de facilement desactiver les messages affichées
